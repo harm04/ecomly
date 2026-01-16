@@ -1,0 +1,35 @@
+class Constants {
+  static const String googlePath = 'assets/images/google.png';
+  static const String emailSent = 'assets/images/email_sent.png';
+  static const String orders = 'assets/images/orders.png';
+  static const String cart = 'assets/images/cart.png';
+  static const String profile = 'assets/images/profile.png';
+  static const String home = 'assets/images/home.png';
+  static const String notification = 'assets/images/notification.png';
+  static const String heart = 'assets/images/heart.png';
+  static const String logo = 'assets/images/logo.png';
+  static const String photo = 'assets/images/photo.png';
+  static const String wallet = 'assets/images/wallet.png';
+  static const String edit = 'assets/images/edit.png';
+  static const String upload = 'assets/images/upload.png';
+  static const String right_arrow = 'assets/images/right_arrow.png';
+  static const String search = 'assets/images/search.png';
+  static const String back = 'assets/images/back.png';
+  static const String discount = 'assets/images/discount.png';
+  static const String replacement = 'assets/images/replacement.png';
+  static const String cod = 'assets/images/cod.png';
+  static const String delivery = 'assets/images/delivery.png';
+  static const String empty_cart = 'assets/images/empty_cart.png';
+  static const String delete = 'assets/images/delete.png';
+  static const String thunder = 'assets/images/thunder.png';
+  static const String discount_percent = 'assets/images/discount_percent.png';
+  static const String empty_orders = 'assets/images/emty_orders.png';
+  static const String order_placed = 'assets/images/order_placed.png';
+  static const String heart_filled = 'assets/images/heart_filled.png';
+  static const String help = 'assets/images/help.png';
+  static const String coupon = 'assets/images/coupons.png';
+    static const String location = 'assets/images/location.png';
+      static const String shop = 'assets/images/shop.png';
+        static const String faq = 'assets/images/faq.png';
+          static const String terms = 'assets/images/terms.png';
+}
